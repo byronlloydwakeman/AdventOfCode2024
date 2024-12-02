@@ -14,7 +14,9 @@ result = 0
 for i in range(len(sorted_result1st)):
     result += abs(sorted_result0th[i] - sorted_result1st[i])
 
+
+
 print(result)
 
-
+# 2000468
 
